@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "168775198126",
+    "firebase_url": "https://micropoll-ca30a.firebaseio.com",
+    "project_id": "micropoll-ca30a",
+    "storage_bucket": "micropoll-ca30a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168775198126:android:2874b570471a7619",
+        "android_client_info": {
+          "package_name": "charlesjamnajim.micropol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168775198126-s3b9n85d47egsgrelmc8cotkgvd2oodt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "charlesjamnajim.micropol",
+            "certificate_hash": "0ebf7f5068345652d2f0ae34f792d68774b843c8"
+          }
+        },
+        {
+          "client_id": "168775198126-dnk6livmlfdapni4vne7o20epersjhvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkmT2Q-m6JtKaKpwQdj6xamDZlavCDNmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168775198126-dnk6livmlfdapni4vne7o20epersjhvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

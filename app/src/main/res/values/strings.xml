@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Micropoll</string>
+    <string name="facebook_application_id" translatable="false">305059106590536</string>
+</resources>

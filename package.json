@@ -1,0 +1,24 @@
+{
+  "name": "micropoll",
+  "version": "1.0.0",
+  "description": "A simple poll creator using firbase\u001b[D\u001b[D\u001b[D\u001b[Debase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medinacharlesdan/Micropoll-Android.git"
+  },
+  "keywords": [
+    "android",
+    "studio",
+    "firebase"
+  ],
+  "author": "Charles Dan Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/medinacharlesdan/Micropoll-Android/issues"
+  },
+  "homepage": "https://github.com/medinacharlesdan/Micropoll-Android#readme"
+}
